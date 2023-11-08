@@ -1,0 +1,2 @@
+function clicked(){
+    alert("clicked")}
